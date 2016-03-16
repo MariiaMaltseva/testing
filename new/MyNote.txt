@@ -1,0 +1,19 @@
+{
+"firstName": "Anton",
+"lastName": "Leonov",
+"email": "a.leonov@mail.ru",
+"password": "1234567890",
+"phoneNumber": "7891247837489",
+"gender": 1,
+"birthday": "1978-21-09"
+}
+
+{
+"firstName": "Gadia",
+"lastName": "Xrenova",
+"email": "g.xrenova@mail.ru",
+"password": "xrenovA",
+"birthday": "1990-25-08",
+"phoneNumber": "7891247837489",
+"gender": 0
+}
